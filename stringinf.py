@@ -29,5 +29,5 @@ if s7:
 else: 
     print("it isnt a palidrome")
 #reverses the string
-s7 = s[::-1]
-print("your string in reverse is", s7)
+s8 = s[::-1]
+print("your string in reverse is", s8)
